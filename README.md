@@ -1,3 +1,6 @@
+In this mini project i created a simple email validation form by using emailjs service,
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
